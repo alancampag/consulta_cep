@@ -2,6 +2,24 @@
 
 Instruções:
 
+-   Clonar repositório:
+
+```
+git clone https://github.com/alancampag/consulta_cep.git
+```
+
+-   Navegar até o diretório raiz:
+
+```
+cd consulta_cep
+```
+
+-   Instalar dependências:
+
+```
+pip install -r requirements.txt
+```
+
 -   Criar csv com lista de ceps de acordo com exemplo ceps.csv.
 -   Salvar csv no mesmo diretório que consulta_cep.py.
 -   Rodar o script:
