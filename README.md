@@ -5,13 +5,13 @@ Instruções:
 -   Clonar repositório:
 
 ```
-git clone https://github.com/alancampag/consulta_cep.git
+git clone https://github.com/alancampag/consulta-cep.git
 ```
 
 -   Navegar até o diretório raiz:
 
 ```
-cd consulta_cep
+cd consulta-cep
 ```
 
 -   Instalar dependências:
